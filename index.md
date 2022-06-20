@@ -7,27 +7,27 @@
 
 ## Summary
 
-My name is Abdelhady Salah. I'm a Freelance Udacity-Certified Full-Stack Developer with Node and Reactexperience.
+- My name is Abdelhady Salah. I'm a Freelance Udacity-Certified Full-Stack Developer with Node and Reactexperience.
 
-I worked Full-Time as a Website Administrator at ME Travel in 2021.
+- I worked Full-Time as a Website Administrator at ME Travel in 2021.
 
-I worked as a Game Developer and Community Manager at SA-MP from 2016 to 2021.
+- I worked as a Game Developer and Community Manager at SA-MP from 2016 to 2021.
 
-I'm skilled with Linux, Pawn, (My)SQL, HTML5, CSS3, Responsive Design, Photoshop, React, Node, Express,Sequelize, and JavaScript ES6.
+- I'm skilled with Linux, Pawn, (My)SQL, HTML5, CSS3, Responsive Design, Photoshop, React, Node, Express,Sequelize, and JavaScript ES6.
 
 ## Work History
 
-- Full-stack Developer
+Full-stack Developer
 - Self-employed
 - Jan 2021 - Present (1 year 6 months +)
-- Tools & Tech Stack: Node, NPM, Express, MySQL, Sequelize, React, HTML5, CSS3, Flexbox,Responsive Design, JavaScript ES6, Jasmine, WebPack, Babel, Shopify, WordPress, AWS, Linux,Photoshop, Git, GitHub
-- Certifications:
--- 2021:
---- Udacity Professional Front-End ND (2-month course)
---- Udacity Advanced Front-End ND (3-month course)
--- 2022:
---- Udemy Responsive Design Certificate
--Achievements:
+Tools & Tech Stack: Node, NPM, Express, MySQL, Sequelize, React, HTML5, CSS3, Flexbox,Responsive Design, JavaScript ES6, Jasmine, WebPack, Babel, Shopify, WordPress, AWS, Linux,Photoshop, Git, GitHub
+Certifications:
+2021:
+- Udacity Professional Front-End ND (2-month course)
+- Udacity Advanced Front-End ND (3-month course)
+2022:
+- Udemy Responsive Design Certificate
+Achievements:
 - Created a front-end web game named "Would You Rather?" using React
 - Created multiple front-end projects with API integration (a weather journal and an NLP front-end)
 - Worked on a full-stack blog web application (partially finished)
@@ -62,8 +62,8 @@ I'm skilled with Linux, Pawn, (My)SQL, HTML5, CSS3, Responsive Design, Photoshop
 - Used GitHub for source control
 
 Website Administrator
-Middle East Towers Travel Agency
-Jan 2021 - Jan 2022 (1 year 1 month)
+- Middle East Towers Travel Agency
+- Jan 2021 - Jan 2022 (1 year 1 month)
 Tools & Tech Stack: WordPress, MySQL, WooCommerce, Elementor Pro, Yoast SEO, Linux,Cloudflare, Webmin, Email Server, HTML, CSS, JavaScript, Photoshop, Facebook Ads
 Achievements:
 - Restored a lost domain and changed the registrar
@@ -97,8 +97,8 @@ Achievements:
 - Optimized for performance, cached resources, and improved site health
 
 Game Developer
-San Andreas Multiplayer
-Jan 2016 - Jan 2021 (5 years 1 month)
+- San Andreas Multiplayer
+- Jan 2016 - Jan 2021 (5 years 1 month)
 Tools & Tech Stack: Pawn, MySQL, HTML, CSS, PHP, Linux, MikroTik, WordPress, Photoshop,Docker, Pterodactyl, OGP, Git, GitHub
 Achievements:
 - Created a game server on the SA-MP multiplayer platform
@@ -128,18 +128,18 @@ Achievements:
 ## Education
 
 Udacity
-Nanodegree, Front-End Web Development
-A certificate of completion of Udacity's "Advanced Front-End Web Development" nano-degree program.
+- Nanodegree, Front-End Web Development
+- A certificate of completion of Udacity's "Advanced Front-End Web Development" nano-degree program.
 
 Udacity
-Nanodegree, Front-End Web Development
-A certificate of completion of Udacity's "Front End Web Development Professional" nano-degreeprogram.
+- Nanodegree, Front-End Web Development
+- A certificate of completion of Udacity's "Front End Web Development Professional" nano-degreeprogram.
 
 El-Orman Language School
-High School Certificate, High School/Secondary Diplomas and Certificates
+- High School Certificate, High School/Secondary Diplomas and Certificates
 
 El-Sadat Language School
-Basic Education Degree, Basic Education
+- Basic Education Degree, Basic Education
 
 ## Licenses & Certifications
 MaharaTech Computer Network Fundamentals - Information Technology Institute(ITI)
