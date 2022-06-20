@@ -2,8 +2,8 @@
 
 ## Contact
 
-Email: hadysalah1455@gmail.com
-LinkedIn: linkedin.com/in/hadyjsx
+- Email: hadysalah1455@gmail.com
+- LinkedIn: linkedin.com/in/hadyjsx
 
 ## Summary
 
@@ -17,17 +17,17 @@ I'm skilled with Linux, Pawn, (My)SQL, HTML5, CSS3, Responsive Design, Photoshop
 
 ## Work History
 
-Full-stack Developer
-Self-employed
-Jan 2021 - Present (1 year 6 months +)
-Tools & Tech Stack: Node, NPM, Express, MySQL, Sequelize, React, HTML5, CSS3, Flexbox,Responsive Design, JavaScript ES6, Jasmine, WebPack, Babel, Shopify, WordPress, AWS, Linux,Photoshop, Git, GitHub
-Certifications:
-2021:
-- Udacity Professional Front-End ND (2-month course)
-- Udacity Advanced Front-End ND (3-month course)
-2022:
-- Udemy Responsive Design Certificate
-Achievements:
+- Full-stack Developer
+- Self-employed
+- Jan 2021 - Present (1 year 6 months +)
+- Tools & Tech Stack: Node, NPM, Express, MySQL, Sequelize, React, HTML5, CSS3, Flexbox,Responsive Design, JavaScript ES6, Jasmine, WebPack, Babel, Shopify, WordPress, AWS, Linux,Photoshop, Git, GitHub
+- Certifications:
+-- 2021:
+--- Udacity Professional Front-End ND (2-month course)
+--- Udacity Advanced Front-End ND (3-month course)
+-- 2022:
+--- Udemy Responsive Design Certificate
+-Achievements:
 - Created a front-end web game named "Would You Rather?" using React
 - Created multiple front-end projects with API integration (a weather journal and an NLP front-end)
 - Worked on a full-stack blog web application (partially finished)
